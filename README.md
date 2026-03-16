@@ -67,6 +67,12 @@ The goal is to explore **team performance, player contributions, tactical trends
 * xG vs actual goals
 * Defensive efficiency
 
+# Player Performance Analysis
+
+* Top Goal Scorer
+* Goal vs Assist Chart
+* Top Player Impact Chart
+
 ---
 
 # 🛠 Tools Used
@@ -86,6 +92,10 @@ The goal is to explore **team performance, player contributions, tactical trends
 * Some teams **overperform their expected goals (xG)**, indicating efficient finishing.
 * The Premier League demonstrates **high international diversity**, with players from many nationalities contributing significant minutes.
 
+#images
+## Example Visualization
+
+![Home Advantage](images/home_advantage.png)  etc.
 ---
 
 # 📂 Dataset Source
